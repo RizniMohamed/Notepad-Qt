@@ -1,0 +1,32 @@
+QRect(0,0 1920x1080) QSizeF(344, 193) 141.951 -> 30
+QRect(0,0 2201x1080) QSizeF(139, 69) 399.881 -> 100
+
+1920->30
+1.778
+2.034 3.088
+
+30 y
+w  d-y
+
+30d-30y = yw
+30d = yw + 30y
+
+30d = y
+w+30
+
+x + 30 = y
+x = y - 30
+
+W libmyNotePade_arm64-v8a.so: 110
+W libmyNotePade_arm64-v8a.so: 2201
+W libmyNotePade_arm64-v8a.so: 139
+
+96
+1920
+344
+
+//    int h = screen->geometry().height();
+//    int w = screen->geometry().width();
+//    int d = sqrt( pow(h,2) + pow(w,2) );
+//    int y = ( (UNK*d)/(w+UNK) );
+//    int x = sqrt( pow(y,2)-pow(UNK,2) );

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>book-dead-solid.png</file>
+        <file>clipboard-regular.png</file>
+        <file>copy-regular.png</file>
+        <file>cut-solid.png</file>
+        <file>file-export-solid.png</file>
+        <file>file-medical-solid.png</file>
+        <file>filepng.png</file>
+        <file>file-regular.png</file>
+        <file>folder-open-regular.png</file>
+        <file>font-solid.png</file>
+        <file>redo-solid.png</file>
+        <file>save-regular.png</file>
+        <file>undo-solid.png</file>
+        <file>img_218367.png</file>
+        <file>Icon-notepad.png</file>
+        <file>color-icon-25.jpg</file>
+        <file>1601833.png</file>
+        <file>help_6.png</file>
+    </qresource>
+</RCC>
